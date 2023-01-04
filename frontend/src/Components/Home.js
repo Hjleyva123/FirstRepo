@@ -33,7 +33,7 @@ function Home() {
             
 
 
-<center><h1>HOMEPAGE</h1>
+<center><h1>Welcome to Mango Tweet</h1>
 <label>Task</label><br></br>
 <input type="text" id="Task" onChange={(e)=> {
     setTask(e.target.value)
